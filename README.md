@@ -7,7 +7,7 @@ Group lab for *Foundation of Machine Learning*: evaluating binary classifiers wi
 | File | Description |
 | --- | --- |
 | `PerformanceMetricsClassification.ipynb` | Main lab notebook. Trains an `SGDClassifier` to detect the digit 5 in MNIST, then compares it to a `DummyClassifier` and a `RandomForestClassifier` using cross-validation, confusion matrices, precision, recall, F1, precision-recall curves and ROC/AUC. |
-| `Tasks.ipynb` | The group's answers to the "To the student" questions, including the Fashion-MNIST exercise and the security-drone precision/recall exercise. |
+| `Tasks.ipynb` | The group's answers to the "To the student" questions. |
 | `pyproject.toml` / `uv.lock` | Project dependencies, managed with [uv](https://docs.astral.sh/uv/). |
 | `requirements.txt` | The same dependencies exported for `pip` users. |
 
